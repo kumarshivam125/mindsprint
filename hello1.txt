@@ -1,3 +1,0 @@
-This is the line of hello1.txt
-
-This is the last 
